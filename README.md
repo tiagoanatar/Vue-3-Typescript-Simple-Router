@@ -1,4 +1,4 @@
-# v-t-02
+# Vue-3-Typescript-Simple-Router
 
 ## Project setup
 ```
